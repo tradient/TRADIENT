@@ -1,7 +1,7 @@
-Bitcoin Core integration/staging tree
+Tradient.net - Bitcoin Core integration/staging tree
 =====================================
 
-https://bitcoincore.org
+https://tradient.net
 
 What is Bitcoin?
 ----------------
